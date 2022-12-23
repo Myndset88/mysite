@@ -1,2 +1,8 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
 mysite/settings.py
 db.sqlite3
+media
